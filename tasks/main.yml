@@ -1,0 +1,5 @@
+---
+  - name: Print Java isnt installed
+    debug: 
+      msg: Java is not installed
+# tasks file for play_role_2
